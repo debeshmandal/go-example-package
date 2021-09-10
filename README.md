@@ -1,5 +1,7 @@
 # go-example-package
 
+[![Go](https://github.com/debeshmandal/illiteracy-go/actions/workflows/build.yml/badge.svg)](https://github.com/debeshmandal/illiteracy-go/actions/workflows/build.yml)
+
 This repository is used for experimenting with `go` packaging. Packaging in `go` is different
 to Python or C++ which most users are familiar with. We use a subset of the conventional
 structure found in Go's recommended
